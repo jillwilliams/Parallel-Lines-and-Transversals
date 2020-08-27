@@ -87,7 +87,11 @@ h2, p, ol {
     margin-right: 35%;
     border: 1px black solid;
     outline: 2px yellow;
-
+}
+iframe {
+    margin: 15px 33% 15px 33%;
+    border: 1px black solid;
+    outline: 2px yellow;
 }
 footer {
     text-align: center;
